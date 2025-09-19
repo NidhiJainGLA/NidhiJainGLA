@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular,NodeJS**
+- 🌱 I’m currently learning **React,NodeJS**
 
-- 💬 Ask me about **react,java,Python**
+- 💬 Ask me about **react,java**
 
-- 📫 How to reach me **nidhzjain2909@gmail.com**
+- 📫 How to reach me **nidhi.jain_cs.aiml22@gla.ac.in**
 
 - ⚡ Fun fact **Code Never Lies**
 
